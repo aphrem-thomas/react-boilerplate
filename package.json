@@ -1,5 +1,5 @@
 {
-  "name": "ami_ui-new",
+  "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "ami",
   "main": "index.js",
@@ -18,6 +18,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "css-loader": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3",
